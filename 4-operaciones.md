@@ -4,7 +4,7 @@
 ```
 docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
-# COMPLETAR
+# docker exec jenkins ls
 ### ¿Para qué se usa el comando ls?
 Funciona como el prefijo de otros comandos para listar diferentes tipos de objetos.
 ### ¿Para qué sirve el argumento -l junto al comando ls?
