@@ -1,1 +1,1 @@
-
+Aprendí los conceptos básicos de Docker y cómo usarlo para gestionar aplicaciones. Ahora entiendo qué son las imágenes y cómo se crean, así como los contenedores que se ejecutan a partir de ellas. También aprendí a realizar mapeos de puertos para conectar mis servicios con el exterior y a ejecutar las operaciones básicas como iniciar, detener y eliminar contenedores. Gracias a esto, puedo usar Docker de forma más práctica y organizada.
